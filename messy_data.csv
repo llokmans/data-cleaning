@@ -1,0 +1,8 @@
+id,first_name,last_name,department,hire_date,salary,email,status
+101,John,Doe,Sales,2021-05-12,50000,JOHN.DOE@email.com,Active
+102,Jane,Smith,HR,03/14/2020,55000,jane.smith@email.com,Active
+103,Bob,,Engineering,2019-11-01,sixty thousand,bob_eng@email.com,Inactive
+104,Alice,Johnson,Marketing,2022/01/15,,alice.j@email.com,active
+101,John,Doe,Sales,2021-05-12,50000,JOHN.DOE@email.com,Active
+105,Charlie,Brown,Sales,,48000,charlie.b@email.com,Pending
+106,Diana,,HR,2023-07-22,62000,diana.h@email.com,Active
