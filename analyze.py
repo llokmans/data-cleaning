@@ -9,8 +9,5 @@ for department in departments:
     department_filter = df[df['department'] == department]
 
 print(df.groupby("department")["salary"].mean())
-
 print(df.groupby("department")["salary"].agg(["mean", "sum", "count"]))
-
-
 print(df.groupby("status")["id"].count())
